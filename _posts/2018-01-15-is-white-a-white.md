@@ -53,7 +53,7 @@ Mathematically speaking, we would have to choose reflectivity $$\rho(\cdot)$$ of
 
 $$\int_{-\infty}^{\infty}\rho(f)R_S(f)df = \int_{-\infty}^{\infty}\rho(f)R_M(f)df = \int_{-\infty}^{\infty}\rho(f)R_L(f)df$$
 
-where $$R_S(\cdot)$$ is the response of the S-cone, $$R_M(\cdot)$$ of the M-cone, and $$R_L(\cdot)$$ of the L-cone, as shown in Figure 3.
+where $$R_S(f)$$ is the frequency response of the S-cone, $$R_M(f)$$ of the M-cone, and $$R_L(f)$$ of the L-cone, as shown in Figure 3.
 
 So the spectrum of the light reflected from this paper is quite different from than the spectrum of light in Figure 1, and yet we will see this paper as "white"!
 
